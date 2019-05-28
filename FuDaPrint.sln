@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuDaPrint", "FuDaPrint\FuDaPrint.csproj", "{541DFDED-D9E2-4166-A35D-F8A6311DB34D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{541DFDED-D9E2-4166-A35D-F8A6311DB34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541DFDED-D9E2-4166-A35D-F8A6311DB34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541DFDED-D9E2-4166-A35D-F8A6311DB34D}.Debug|x86.ActiveCfg = Debug|x86
+		{541DFDED-D9E2-4166-A35D-F8A6311DB34D}.Debug|x86.Build.0 = Debug|x86
+		{541DFDED-D9E2-4166-A35D-F8A6311DB34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541DFDED-D9E2-4166-A35D-F8A6311DB34D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{541DFDED-D9E2-4166-A35D-F8A6311DB34D}.Release|x86.ActiveCfg = Release|x86
+		{541DFDED-D9E2-4166-A35D-F8A6311DB34D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
