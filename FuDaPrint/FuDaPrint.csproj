@@ -80,6 +80,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <None Include="app.config" />
+    <None Include="dll\AlphaOS.ssk" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -91,7 +92,10 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="dll\" />
+    <Content Include="dll\FNTHEX32.DLL" />
+    <Content Include="dll\IrisSkin2.dll" />
+    <Content Include="dll\PrintLabel.dll" />
+    <Content Include="dll\PrintOut.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
